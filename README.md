@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Sou Mônica Kazumi! 👋
 
 <!--
 **Monicakazumi/Monicakazumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
